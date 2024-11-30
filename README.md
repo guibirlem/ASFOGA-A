@@ -1,3 +1,6 @@
+VIDEO https://youtu.be/JOAfws2LwTI
+
+
 dotnet run para iniciar a api
 JSON para a api
 {
